@@ -104,59 +104,59 @@ const hospitals = [
   { name: "GANTA NEURO HOSPITALS", district: "chittoor", departments: ["neurology"], doctor: "Dr.Ganta Rajasekhar", address: "https://maps.app.goo.gl/yfTvxw7FtLfyyTZp6", type: "private", contact: "6304862259", emergencyAvailable: true,},
   { name: "SIREESHA NEURO CARE", district: "chittoor", departments: ["neurology"], doctor: "Dr. Sireesha Rani", address: "https://maps.app.goo.gl/RkSmAwDwMbEuBdxN9", type: "private", contact: "8688663108", emergencyAvailable: true,},
 
-  // ================= OPTHOLOGY =================
+  // ================= optholmology =================
  
-  { name: "MANCHU EYE CARE", district: "srikakulam",departments: ["opthomology"], doctor: "Dr. M. Vasudeva Rao",address: "https://maps.app.goo.gl/AmnrBUSzYRnSFcFa6", type: "private", contact: "8125703822", emergencyAvailable: true, },
-  { name: "DINESH EYE HOSPITAL", district: "srikakulam",departments: ["opthomology"], doctor: "Dr. V. Dinesh",address: "https://maps.app.goo.gl/YVjUhvDjLuQUPFiW9", type: "private", contact: "6302563017", emergencyAvailable: true, },
-  { name: "NARAYANA EYE HOSPITAL", district: "srikakulam",departments: ["opthomology"], doctor: "Dr. M. Sudheer Kumar",address: "https://maps.app.goo.gl/MxfvKfhALkY9aRgQA", type: "private", contact: "8555035180", emergencyAvailable: true, },
+  { name: "MANCHU EYE CARE", district: "srikakulam",departments: ["optholmology"], doctor: "Dr. M. Vasudeva Rao",address: "https://maps.app.goo.gl/AmnrBUSzYRnSFcFa6", type: "private", contact: "8125703822", emergencyAvailable: true, },
+  { name: "DINESH EYE HOSPITAL", district: "srikakulam",departments: ["optholmology"], doctor: "Dr. V. Dinesh",address: "https://maps.app.goo.gl/YVjUhvDjLuQUPFiW9", type: "private", contact: "6302563017", emergencyAvailable: true, },
+  { name: "NARAYANA EYE HOSPITAL", district: "srikakulam",departments: ["optholmology"], doctor: "Dr. M. Sudheer Kumar",address: "https://maps.app.goo.gl/MxfvKfhALkY9aRgQA", type: "private", contact: "8555035180", emergencyAvailable: true, },
 
-  { name: "SWAMY EYE HOSPITAL", district: "vizianagaram",departments: ["opthomology"], doctor: "Dr. Manchu Kumar Swamy",address: "https://maps.app.goo.gl/T4SdEH2jZc8fKeG7A", type: "private", contact: "8019905587", emergencyAvailable: true, },
-  { name: "PUSHPAGIRI EYE FOUNDATION", district: "vizianagaram",departments: ["opthomology"], doctor: "Dr. Rajat Kapoor",address: "https://maps.app.goo.gl/YxBpfd1UhP2M5C4U8", type: "private", contact: "8922235049", emergencyAvailable: true, },
-  { name: "MAXIVISION SUPER SPECIALITY HOSPITAL", district: "vizianagaram",departments: ["opthomology"], doctor: "Dr. K. Padmaja",address: "https://maps.app.goo.gl/4VNMUKdufxnvywGL6", type: "private", contact: "9240214613", emergencyAvailable: true, },
+  { name: "SWAMY EYE HOSPITAL", district: "vizianagaram",departments: ["optholmology"], doctor: "Dr. Manchu Kumar Swamy",address: "https://maps.app.goo.gl/T4SdEH2jZc8fKeG7A", type: "private", contact: "8019905587", emergencyAvailable: true, },
+  { name: "PUSHPAGIRI EYE FOUNDATION", district: "vizianagaram",departments: ["optholmology"], doctor: "Dr. Rajat Kapoor",address: "https://maps.app.goo.gl/YxBpfd1UhP2M5C4U8", type: "private", contact: "8922235049", emergencyAvailable: true, },
+  { name: "MAXIVISION SUPER SPECIALITY HOSPITAL", district: "vizianagaram",departments: ["optholmology"], doctor: "Dr. K. Padmaja",address: "https://maps.app.goo.gl/4VNMUKdufxnvywGL6", type: "private", contact: "9240214613", emergencyAvailable: true, },
 
-  { name: "CHROMA EYE HOSPITAL", district: "vishakapatnam",departments: ["opthomology"], doctor: "Dr. Vishnu Deepthi",address: "https://maps.app.goo.gl/DavEMYsJ6DcoYzxY8", type: "private", contact: "7981313108", emergencyAvailable: true, },
-  { name: "SANKAR FOUNDATION EYE HOSPITAL", district: "vishakapatnam",departments: ["opthomology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/6NAST3KNBkw51eYZ8", type: "private", contact: "9121005833", emergencyAvailable: true, },
-  { name: "MAXIVISION SUPER SPECIALITY EYE HOSPITAL", district: "vishakapatnam",departments: ["opthomology"], doctor: "Dr. Ch. Srinivasa Rao",address: "https://maps.app.goo.gl/T9pueeCQGv2zDk1z6", type: "private", contact: "8912550550", emergencyAvailable: true, },
+  { name: "CHROMA EYE HOSPITAL", district: "vishakapatnam",departments: ["optholmology"], doctor: "Dr. Vishnu Deepthi",address: "https://maps.app.goo.gl/DavEMYsJ6DcoYzxY8", type: "private", contact: "7981313108", emergencyAvailable: true, },
+  { name: "SANKAR FOUNDATION EYE HOSPITAL", district: "vishakapatnam",departments: ["optholmology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/6NAST3KNBkw51eYZ8", type: "private", contact: "9121005833", emergencyAvailable: true, },
+  { name: "MAXIVISION SUPER SPECIALITY EYE HOSPITAL", district: "vishakapatnam",departments: ["optholmology"], doctor: "Dr. Ch. Srinivasa Rao",address: "https://maps.app.goo.gl/T9pueeCQGv2zDk1z6", type: "private", contact: "8912550550", emergencyAvailable: true, },
 
-  { name: "BUDDHUDU HOSPITAL", district: "east godavari",departments: ["opthomology"], doctor: "Dr. Swetha Sajja",address: "https://maps.app.goo.gl/ikDFYjCCvZttGzmX8", type: "private", contact: "7799191470", emergencyAvailable: true, },
-  { name: "OM SRI RAM EYE CARE", district: "east godavari",departments: ["opthomology"], doctor: "Dr. V. Ashok Kumar",address: "https://maps.app.goo.gl/hfMSB2cDvxBAmsT49", type: "private", contact: "8834050071", emergencyAvailable: true, },
-  { name: "AKIRA EYE HOSPITAL", district: "east godavari",departments: ["opthomology"], doctor: "Dr. N. Prabhakar Rao",address: "https://maps.app.goo.gl/cMFVqZV2aGWQDNWP8", type: "private", contact: "8832477701", emergencyAvailable: true, },
+  { name: "BUDDHUDU HOSPITAL", district: "east godavari",departments: ["optholmology"], doctor: "Dr. Swetha Sajja",address: "https://maps.app.goo.gl/ikDFYjCCvZttGzmX8", type: "private", contact: "7799191470", emergencyAvailable: true, },
+  { name: "OM SRI RAM EYE CARE", district: "east godavari",departments: ["optholmology"], doctor: "Dr. V. Ashok Kumar",address: "https://maps.app.goo.gl/hfMSB2cDvxBAmsT49", type: "private", contact: "8834050071", emergencyAvailable: true, },
+  { name: "AKIRA EYE HOSPITAL", district: "east godavari",departments: ["optholmology"], doctor: "Dr. N. Prabhakar Rao",address: "https://maps.app.goo.gl/cMFVqZV2aGWQDNWP8", type: "private", contact: "8832477701", emergencyAvailable: true, },
 
-  { name: "PRANALI EYE CARE HOSPITAL", district: "west godavari",departments: ["opthomology"], doctor: "Dr. G. Gopala Rao",address: "https://maps.app.goo.gl/dWK9i7YJWjDejzTU6", type: "private", contact: "7993924025", emergencyAvailable: true, },
-  { name: "IDEAL VISION SUPER SPECIALITYEYE HOSPITAL", district: "west godavari",departments: ["opthomology"], doctor: "Dr. P. Suryasoumith",address: "https://maps.app.goo.gl/MCrHaCEc2KTRvoKN8", type: "private", contact: "9493529799", emergencyAvailable: true, },
-  { name: "ANU EYE HOSPITAL", district: "west godavari",departments: ["opthomology"], doctor: "Dr. Anu",address: "https://maps.app.goo.gl/Pp8VNdmrKaqHCg5Q9", type: "private", contact: "8019805888", emergencyAvailable: true, },
+  { name: "PRANALI EYE CARE HOSPITAL", district: "west godavari",departments: ["optholmology"], doctor: "Dr. G. Gopala Rao",address: "https://maps.app.goo.gl/dWK9i7YJWjDejzTU6", type: "private", contact: "7993924025", emergencyAvailable: true, },
+  { name: "IDEAL VISION SUPER SPECIALITYEYE HOSPITAL", district: "west godavari",departments: ["optholmology"], doctor: "Dr. P. Suryasoumith",address: "https://maps.app.goo.gl/MCrHaCEc2KTRvoKN8", type: "private", contact: "9493529799", emergencyAvailable: true, },
+  { name: "ANU EYE HOSPITAL", district: "west godavari",departments: ["optholmology"], doctor: "Dr. Anu",address: "https://maps.app.goo.gl/Pp8VNdmrKaqHCg5Q9", type: "private", contact: "8019805888", emergencyAvailable: true, },
 
-  { name: "L V PRASAD EYE INSTITUTE", district: "krishna",departments: ["opthomology"], doctor: "Dr. Aravind Roy",address: "https://maps.app.goo.gl/isuYAXKQbSNMEtQPA", type: "private", contact: "8666712020", emergencyAvailable: true, },
-  { name: "TRINETRA EYE HOSPITAL", district: "krishna",departments: ["opthomology"], doctor: "Dr. Bindu Madhavi",address: "https://maps.app.goo.gl/FfCPDntrJCBcEnw4A", type: "private", contact: "8977188144", emergencyAvailable: true, },
-  { name: "WIN VISION EYE HOSPITAL", district: "krishna",departments: ["opthomology"], doctor: "Dr. Harika Anne",address: "https://maps.app.goo.gl/JYeZqpJdBBAXVcWm8", type: "private", contact: "7450004444", emergencyAvailable: true, },
+  { name: "L V PRASAD EYE INSTITUTE", district: "krishna",departments: ["optholmology"], doctor: "Dr. Aravind Roy",address: "https://maps.app.goo.gl/isuYAXKQbSNMEtQPA", type: "private", contact: "8666712020", emergencyAvailable: true, },
+  { name: "TRINETRA EYE HOSPITAL", district: "krishna",departments: ["optholmology"], doctor: "Dr. Bindu Madhavi",address: "https://maps.app.goo.gl/FfCPDntrJCBcEnw4A", type: "private", contact: "8977188144", emergencyAvailable: true, },
+  { name: "WIN VISION EYE HOSPITAL", district: "krishna",departments: ["optholmology"], doctor: "Dr. Harika Anne",address: "https://maps.app.goo.gl/JYeZqpJdBBAXVcWm8", type: "private", contact: "7450004444", emergencyAvailable: true, },
 
-  { name: "SANKARA EYE HOSPITAL", district: "guntur",departments: ["opthomology"], doctor: "Dr. Madhu Kumar",address: "https://maps.app.goo.gl/o9C7p6is6G4wnR6f9", type: "private", contact: "8632347800", emergencyAvailable: true, },
-  { name: "MAXIVISION", district: "guntur",departments: ["opthomology"], doctor: "Dr. Ramalinga Reddy",address: "https://maps.app.goo.gl/jPTYTUs26n3qVTnn9", type: "private", contact: "9240214613", emergencyAvailable: true, },
-  { name: "VASAN EYE CARE", district: "guntur",departments: ["opthomology"], doctor: "Dr. Chereddy Srinivasa Reddy",address: "https://maps.app.goo.gl/EkVkqR9v8d48zgnR8", type: "private", contact: "18005712222", emergencyAvailable: true, },
+  { name: "SANKARA EYE HOSPITAL", district: "guntur",departments: ["optholmology"], doctor: "Dr. Madhu Kumar",address: "https://maps.app.goo.gl/o9C7p6is6G4wnR6f9", type: "private", contact: "8632347800", emergencyAvailable: true, },
+  { name: "MAXIVISION", district: "guntur",departments: ["optholmology"], doctor: "Dr. Ramalinga Reddy",address: "https://maps.app.goo.gl/jPTYTUs26n3qVTnn9", type: "private", contact: "9240214613", emergencyAvailable: true, },
+  { name: "VASAN EYE CARE", district: "guntur",departments: ["optholmology"], doctor: "Dr. Chereddy Srinivasa Reddy",address: "https://maps.app.goo.gl/EkVkqR9v8d48zgnR8", type: "private", contact: "18005712222", emergencyAvailable: true, },
 
-  { name: "DR AGARWALS EYE HOSPITAL", district: "prakasam",departments: ["opthomology"], doctor: "Dr. Sai Yashwanth",address: "https://maps.app.goo.gl/nMyffBxgFXJEBTLQA", type: "private", contact: "9594904863", emergencyAvailable: true, },
-  { name: "SMART VISION EYE HOSPITAL", district: "prakasam",departments: ["opthomology"], doctor: "Dr. Harshavardhan",address: "https://maps.app.goo.gl/RGYntSh6KwDDVQ5C7", type: "private", contact: "7842232020", emergencyAvailable: true, },
-  { name: "SARVA NETRALAYA RETINA AND EYE HOSPITAL", district: "prakasam",departments: ["opthomology"], doctor: "Dr. P. Manasa",address: "https://maps.app.goo.gl/sYZavWJeJ165YQgT9", type: "private", contact: "9642228090", emergencyAvailable: true, },
+  { name: "DR AGARWALS EYE HOSPITAL", district: "prakasam",departments: ["optholmology"], doctor: "Dr. Sai Yashwanth",address: "https://maps.app.goo.gl/nMyffBxgFXJEBTLQA", type: "private", contact: "9594904863", emergencyAvailable: true, },
+  { name: "SMART VISION EYE HOSPITAL", district: "prakasam",departments: ["optholmology"], doctor: "Dr. Harshavardhan",address: "https://maps.app.goo.gl/RGYntSh6KwDDVQ5C7", type: "private", contact: "7842232020", emergencyAvailable: true, },
+  { name: "SARVA NETRALAYA RETINA AND EYE HOSPITAL", district: "prakasam",departments: ["optholmology"], doctor: "Dr. P. Manasa",address: "https://maps.app.goo.gl/sYZavWJeJ165YQgT9", type: "private", contact: "9642228090", emergencyAvailable: true, },
 
-  { name: "VIJETHA EYE HOSPITAL", district: "nellore",departments: ["opthology"], doctor: "Dr. Hazrat Babu",address: "https://maps.app.goo.gl/k9Wy39dxhD1d1iHi9", type: "private", contact: "8612303355", emergencyAvailable: true, },
-  { name: "DESAI EYE CARE", district: "nellore",departments: ["opthology"], doctor: "Dr. Sanjeev Kumar Desai",address: "https://maps.app.goo.gl/vEXAe1yCsCYrVp5Y6", type: "private", contact: "9100208048", emergencyAvailable: true, },
-  { name: "SUSEELA NETRALAYA SUPER SPECIALITY EYE HOSPITAL", district: "nellore",departments: ["opthology"], doctor: "Dr. M. Aparna",address: "https://maps.app.goo.gl/ZVAAWUGLb9GvkanQA", type: "private", contact: "9949546785", emergencyAvailable: true, },
+  { name: "VIJETHA EYE HOSPITAL", district: "nellore",departments: ["optholmology"], doctor: "Dr. Hazrat Babu",address: "https://maps.app.goo.gl/k9Wy39dxhD1d1iHi9", type: "private", contact: "8612303355", emergencyAvailable: true, },
+  { name: "DESAI EYE CARE", district: "nellore",departments: ["optholmology"], doctor: "Dr. Sanjeev Kumar Desai",address: "https://maps.app.goo.gl/vEXAe1yCsCYrVp5Y6", type: "private", contact: "9100208048", emergencyAvailable: true, },
+  { name: "SUSEELA NETRALAYA SUPER SPECIALITY EYE HOSPITAL", district: "nellore",departments: ["optholmology"], doctor: "Dr. M. Aparna",address: "https://maps.app.goo.gl/ZVAAWUGLb9GvkanQA", type: "private", contact: "9949546785", emergencyAvailable: true, },
 
-  { name: "FOCUS EYE HOSPITAL", district: "ananthapur",departments: ["opthology"], doctor: "Dr. K. Maheswari",address: "https://maps.app.goo.gl/pt22bvQwPokJnSo69", type: "private", contact: "9521218989", emergencyAvailable: true, },
-  { name: "SRI PRAKASH EYE HOSPITAL", district: "ananthapur",departments: ["opthology"], doctor: "Dr. B. Siva Prakash Rao",address: "https://maps.app.goo.gl/HkGQdNUsi5Kw6sZs8", type: "private", contact: "8554221006", emergencyAvailable: true, },
-  { name: "SMART VISION EYE HOSPITAL", district: "ananthapur",departments: ["opthology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/a91cmg27Y3n57uRs7", type: "private", contact: "9703933448", emergencyAvailable: true, },
+  { name: "FOCUS EYE HOSPITAL", district: "ananthapur",departments: ["optholmology"], doctor: "Dr. K. Maheswari",address: "https://maps.app.goo.gl/pt22bvQwPokJnSo69", type: "private", contact: "9521218989", emergencyAvailable: true, },
+  { name: "SRI PRAKASH EYE HOSPITAL", district: "ananthapur",departments: ["optholmology"], doctor: "Dr. B. Siva Prakash Rao",address: "https://maps.app.goo.gl/HkGQdNUsi5Kw6sZs8", type: "private", contact: "8554221006", emergencyAvailable: true, },
+  { name: "SMART VISION EYE HOSPITAL", district: "ananthapur",departments: ["optholmology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/a91cmg27Y3n57uRs7", type: "private", contact: "9703933448", emergencyAvailable: true, },
 
-  { name: "MAA EYE CARE HOSPITAL", district: "kadapa",departments: ["opthology"], doctor: "Dr. Dinesh",address: "https://maps.app.goo.gl/2YCrwuYpEz7cguuT9", type: "private", contact: "9398312808", emergencyAvailable: true, },
-  { name: "ARVIND EYE CARE HOSPITAL", district: "kadapa",departments: ["opthology"], doctor: "Dr. Raja Venkat Reddy",address: "https://maps.app.goo.gl/FrmozmTA5x1HTrLC7", type: "private", contact: "not available", emergencyAvailable: true, },
-  { name: "ASIF KHAN EYE CARE AND OPTICALS", district: "kadapa",departments: ["opthology"], doctor: "Dr. Asif Khan",address: "https://maps.app.goo.gl/KgJdxZptHMms1Tkb6", type: "private", contact: "9959258856", emergencyAvailable: true, },
+  { name: "MAA EYE CARE HOSPITAL", district: "kadapa",departments: ["optholmology"], doctor: "Dr. Dinesh",address: "https://maps.app.goo.gl/2YCrwuYpEz7cguuT9", type: "private", contact: "9398312808", emergencyAvailable: true, },
+  { name: "ARVIND EYE CARE HOSPITAL", district: "kadapa",departments: ["optholmology"], doctor: "Dr. Raja Venkat Reddy",address: "https://maps.app.goo.gl/FrmozmTA5x1HTrLC7", type: "private", contact: "not available", emergencyAvailable: true, },
+  { name: "ASIF KHAN EYE CARE AND OPTICALS", district: "kadapa",departments: ["optholmology"], doctor: "Dr. Asif Khan",address: "https://maps.app.goo.gl/KgJdxZptHMms1Tkb6", type: "private", contact: "9959258856", emergencyAvailable: true, },
 
-  { name: "JAYALAKSHMI NETRALAYA", district: "kurnool",departments: ["opthology"], doctor: "Dr. J J Praveen",address: "https://maps.app.goo.gl/pQ3wfk5tFPFFNiik7", type: "private", contact: "8008311344", emergencyAvailable: true, },
-  { name: "SUNSHINE ADVANCED EYECARE", district: "kurnool",departments: ["opthology"], doctor: "Dr. Spurthi Reddy",address: "https://maps.app.goo.gl/N4Kt1bsqSCm5UMHc7", type: "private", contact: "9963276070", emergencyAvailable: true, },
-  { name: "SANTHIRAM LASER EYE HOSPITAL", district: "kurnool",departments: ["opthology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/TYwgX9TSdPZp2yjz9", type: "private", contact: "8989464646", emergencyAvailable: true, },
+  { name: "JAYALAKSHMI NETRALAYA", district: "kurnool",departments: ["optholmology"], doctor: "Dr. J J Praveen",address: "https://maps.app.goo.gl/pQ3wfk5tFPFFNiik7", type: "private", contact: "8008311344", emergencyAvailable: true, },
+  { name: "SUNSHINE ADVANCED EYECARE", district: "kurnool",departments: ["optholmology"], doctor: "Dr. Spurthi Reddy",address: "https://maps.app.goo.gl/N4Kt1bsqSCm5UMHc7", type: "private", contact: "9963276070", emergencyAvailable: true, },
+  { name: "SANTHIRAM LASER EYE HOSPITAL", district: "kurnool",departments: ["optholmology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/TYwgX9TSdPZp2yjz9", type: "private", contact: "8989464646", emergencyAvailable: true, },
 
-  { name: "L V PRASAD EYE INSTITUTE", district: "chittoor",departments: ["opthology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/hZAzGoJ3oaCT1bWa6", type: "private", contact: "9963478754", emergencyAvailable: true, },
-  { name: "UMA EYE CARE HOSPITAL", district: "chittoor",departments: ["opthology"], doctor: "Dr. N V Arulmozhi Varman",address: "https://maps.app.goo.gl/ajRftSiPPWveFUNA7", type: "private", contact: "8317639709", emergencyAvailable: true, },
-  { name: "AMERICAN LASER EYE HOSPITAL", district: "chittoor",departments: ["opthology"], doctor: "Dr. M Ramesh Chandra",address: "https://maps.app.goo.gl/Y5LpeQeZRZw2oDLu8", type: "private", contact: "8989717171", emergencyAvailable: true, },
+  { name: "L V PRASAD EYE INSTITUTE", district: "chittoor",departments: ["optholmology"], doctor: "Name Not Available",address: "https://maps.app.goo.gl/hZAzGoJ3oaCT1bWa6", type: "private", contact: "9963478754", emergencyAvailable: true, },
+  { name: "UMA EYE CARE HOSPITAL", district: "chittoor",departments: ["optholmology"], doctor: "Dr. N V Arulmozhi Varman",address: "https://maps.app.goo.gl/ajRftSiPPWveFUNA7", type: "private", contact: "8317639709", emergencyAvailable: true, },
+  { name: "AMERICAN LASER EYE HOSPITAL", district: "chittoor",departments: ["optholmology"], doctor: "Dr. M Ramesh Chandra",address: "https://maps.app.goo.gl/Y5LpeQeZRZw2oDLu8", type: "private", contact: "8989717171", emergencyAvailable: true, },
   
   // =================    ENT   =================
  

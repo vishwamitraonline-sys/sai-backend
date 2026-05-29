@@ -290,7 +290,7 @@ async function seedData() {
         medications: ["Antibiotic eye drops", "Antihisthamine eye drops" ,],
         precautions: ["Wash hands frequently" , "Avoid touching eyes" , "Do not share towels",],
         diet: ["Vitamin A foods" , "Citrus fruits" , "Plenty of water",],
-        department: "opthomology",
+        department: "optholmology",
         severity: "medium",},
 
         { name: "DIABETIC RETINOPATHY",
@@ -306,7 +306,7 @@ async function seedData() {
         medications: ["Anti VEGF injections" ,  "Vitamin Supplements",],
         precautions: ["Avoid Smoking" , "Regular eye monitoring" , "Wear UV protection  glasses",],
         diet: ["Fish" , "Nuts" ,  "Leafy Vegetables",],
-        department: "opthomology",
+        department: "optholmology",
         severity: "medium",},
 
         { name: "DRY EYE",
@@ -314,7 +314,7 @@ async function seedData() {
         medications: ["Artiificial tears" , "Lubricating eye drops",],
         precautions: ["Reduce Screen time" , "Blink frequently" , "Avoid dry environments",],
         diet: ["Omega 3 fatty acids" , "Water rich foods" , "Fish",],
-        department: "opthomology",
+        department: "optholmology",
         severity: "low",},
 
         { name: "UVEITIS",
@@ -330,7 +330,7 @@ async function seedData() {
         medications: ["Emergency surgery" , "Laser treatment",],
         precautions: ["Avoid eye trauma" , "Immediate hospital visit" , "Regular retinal checkups",],
         diet: ["Vitamin A rich foods" , "Green Leafy Vegetables" , "Fruits",],
-        department: "opthomology",
+        department: "optholmology",
         severity: "high",},
 
         { name: "NIGHT BLINDNESS",
@@ -338,7 +338,7 @@ async function seedData() {
         medications: ["Vitamin A Supplements"],
         precautions: ["Regular eye examination" , "Proper nutrition",],
         diet: ["Carrots" , "Sweet potatoes" , "Eggs" , "Milk",],
-        department: "opthomology",
+        department: "optholmology",
         severity: "high",},
 
         // ================= NEURO =================
