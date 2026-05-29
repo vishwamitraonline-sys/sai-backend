@@ -628,7 +628,7 @@ async function seedData() {
         medications: ["Antacids" , "Omeprazole" , "Pantoprazole",],
         precautions: ["Avoid lying down after meals" , "Avoid Spicy foods" , "Eat small frequent meals",],
         diet: ["Low oily foods" , "Bananas" , "Oatmeal",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "low",},
 
         { name: "GASTRITIS",
@@ -636,7 +636,7 @@ async function seedData() {
         medications: ["Antacids" , "Proton pump inhibitors",],
         precautions: ["Avoid alchohol" , "Avoid spicy foods" , "Reduce Stress",],
         diet: ["Soft foods" , "Boiled Vegetables" , "Plenty of water",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "low",},
 
         { name: "PEPTIC ULCER",
@@ -644,7 +644,7 @@ async function seedData() {
         medications: ["Omeprazole" , "Antibiotics" , "Antacids",],
         precautions: ["Avoid Smoking alchohol" , "Avoid painkiller overuse" , "Regular meals",],
         diet: ["Non Spicy foods" ,"Milk and Curd" , "Fruits",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "medium",},
 
         { name: "IRRITABLE BOWEL SYNDROME",
@@ -652,7 +652,7 @@ async function seedData() {
         medications: ["Antispasmodics" , "Fiber Supplements" , "Probiotics",],
         precautions: ["Stress management" , "Avoid trigger foods" , "Regular exercise",],
         diet: ["Fiber rich foods" , "Probiotic yogurt" , "Adequate water",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "low",},
 
         { name: "HEPATITIS",
@@ -660,7 +660,7 @@ async function seedData() {
         medications: ["Antiviral medicines" , "Liver supportive treatment",],
         precautions: ["Vaccination" , "Avoid alchohol" , "Maintain hygiene",],
         diet: ["Low fat foods" , "Fruits and vegetables" , "Plenty of fluids",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "medium",},
 
         { name: "FATTY LIVER",
@@ -668,7 +668,7 @@ async function seedData() {
         medications: ["Weight management" , "Diabetes or cholesterol medicines",],
         precautions: ["Avoid alchohol" , "Exercise regularly" , "Maintain healthy weight",],
         diet: ["Low fat diet" , "Green Vegetables" , "Whole grains",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "low",},
 
         { name: "PANCREATITIS",
@@ -676,7 +676,7 @@ async function seedData() {
         medications: ["Pain relief medicines" , "IV fluids" , "Enzyme supplements",],
         precautions: ["Avoid alchohol" , "Avoid fatty foods" , "Regular follow up",],
         diet: ["Low fat foods" , "Soft foods" , "Plenty of fluids",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "medium",},
 
         { name: "ULCERATIVE COLITIS",
@@ -684,7 +684,7 @@ async function seedData() {
         medications: ["Anti inflammatory medicines" , "Steroids" , "Immunosuppressants",],
         precautions: ["Regular monitoring" , "Stress reduction" , "Avoid trigger foods",],
         diet: ["Low fibre during flare ups" , "Hydration" , "Protein rich foods",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "high",},
 
         { name: "GALLSTONES",
@@ -692,7 +692,7 @@ async function seedData() {
         medications: ["Pain relief medicines" , "Surgery",],
         precautions: ["Avoid fatty foods" , "Maintain healthy weight" , "Regular meals",],
         diet: ["Low Cholesterol foods" , "Fruits and Vegetables" , "Fiber rich foods",],
-        department: "gastroentrology",
+        department: "gastroenterology",
         severity: "high",},
 
         // ================= UROLOGY =================
