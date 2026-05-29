@@ -408,19 +408,6 @@ const detectDepartmentFromPrompt = (prompt) => {
         "endocrine",
       ],
     },
-    {
-      department: "dermatology",
-      keywords: [
-        "skin problem",
-        "skin rash",
-        "itching",
-        "pimples",
-        "acne",
-        "hair fall",
-        "fungal infection",
-        "allergy",
-      ],
-    },
   ];
 
   for (const item of departmentKeywords) {
